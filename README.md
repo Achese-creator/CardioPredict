@@ -1,5 +1,13 @@
 # 🫀 CardioPredict
 
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://cardiopredict406.streamlit.app/)
+
+## 🌐 Live Demo
+
+**Try the application here:**
+
+https://cardiopredict406.streamlit.app
+
 > **An end-to-end Deep Learning application for Cardiovascular Disease Risk Prediction with Explainable AI and Professional Clinical Reporting.**
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue)
